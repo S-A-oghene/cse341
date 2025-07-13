@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/S-A-oghene/cse341/issues"
   },
-  "homepage": "https://github.com/S-A-oghene/cse341#readme"
+  "homepage": "https://github.com/S-A-oghene/cse341#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
